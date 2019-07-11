@@ -1,0 +1,88 @@
+{
+  "links": {
+    "buy": "https://www.indiegogo.com/projects/laer-a-laptop-sleeve-to-charge-all-your-devices-battery-powerbank?utm_source=arroe%20website"
+  },
+"sections": {
+    "features": "LAER is the first of its kind. A bluetooth enabled laptop sleeve that can charge all of your devices simultaneously wherever you are.",
+    "design": {
+      "The Product": {
+        "text": "LAER doesn’t look like any other laptop sleeve, it’s designed to stand out. Our trademark circle on the front allows you to easily locate the wireless charging pad and the stitching is of the highest quality. We designed a composite material specially for LAER allowing the sleeve to be durable, and lightweight. The outer material is a nylon fabric chosen for its durability and aesthetic, the padding is a dense foam to protect your laptop from impact, and the inner fabric is a soft material to protect from scratches.",
+        "src": "img/Sleeve-min.jpg",
+        "btnText" : "Explore!",
+        "link": "https://www.indiegogo.com/projects/laer-a-laptop-sleeve-to-charge-all-your-devices-battery-powerbank?utm_source=arroe%20website"
+
+      },
+      "Pre Order": {
+        "text": "The insert contains all of the LAER hardware and is easily removable when needed. The casing is designed to fit the surface area of your laptop, saving space, and is impossibly thin at only 1cm. The materials we have used make the insert as light as possible, eliminating any unecessary weight.",
+        "src": "img/Insert-min.jpg",
+        "btnText" : "Pre Order!",
+        "link": "https://www.indiegogo.com/projects/laer-a-laptop-sleeve-to-charge-all-your-devices-battery-powerbank?utm_source=arroe%20website"
+      }
+    },
+    "about": "Based in London, ARROE was founded in March 2016 to find innovative solutions for everyday problems. The aim of our first product is to simplify the user’s life by allowing them to charge all their devices simultaneously from one wall socket. We are replacing all chargers, adapters, cables, portable batteries, wireless charging pads with one compact device that is made for travel and working on the go. LAER is the first of its kind, charging devices everywhere, for everyone.",
+    "support": "We’d like to find out more about your device so you can get the product that fits best"
+  },
+  "videos": {
+    "hero": "7dUXnhUPf6U",
+    "features": "bgshlz-ydjA"
+  },
+  "features": {
+    "Go": {
+      "icon": "img/Go-icon",
+      "text": ["Charge on the go with our proprietary closure system"]
+    },
+    "Charge": {
+      "icon": "img/Charge-icon",
+      "text": [
+        "Charge your laptop (PC or MAC)",
+        "Charge your phone in minutes with Quick Charge",
+        "Charge your phone and wearables wirelessly or via USB/USB-C",
+        "Charge your MagSafe Macbook with our proprietary connectors"
+      ]
+    },
+    "Switch": {
+      "icon": "img/Switch-icon",
+      "text": [
+        "Easily switch battery capacities to suit your day using our proprietary cartridge system",
+        "Easily switch between wireless and magnetic cabled charging with our proprietary iPhone case "
+      ]
+    },
+    "Adapt": {
+      "icon": "img/Adapt-icon",
+      "text": ["Charge anywhere in the world, adapters for all countries"]
+    },
+    "Manage": {
+      "icon": "img/Manage-icon",
+      "text": ["Manage functionality and battery levels using our app"]
+    },
+    "Track": {
+      "icon": "img/Trackr-icon",
+      "text": ["Track your LAER sleeve from your phone with TrackR"]
+    }
+  },
+  "people": {
+    "Eoin": {
+      "title": "Managing Director",
+      "picture": "img/eoin-min.jpg"
+    },
+    "Romain": {
+      "title": "Head of Design",
+      "picture": "img/romain-min.jpg"
+    },
+    "Aksat": {
+      "title": "Head of Hardware",
+      "picture": "img/aksat-min.jpg"
+    }
+  },
+  "devices": {
+    "Apple": ["Macbook Pro 15", "Macbook Pro 13 retina"],
+    "Samsung": ["Samsungbook Copy 12.99 Iris"],
+    "Lenovo": ["Thinkpad T21", "Thinkpad T35"]
+  },
+  "media": {
+    "facebook": "https://www.facebook.com/arroebrand",
+    "linkedin": "https://www.linkedin.com/company/arroe",
+    "instagram": "http://instagram.com/arroebrand",
+    "twitter": "https://twitter.com/arroebrand"
+  }
+}
