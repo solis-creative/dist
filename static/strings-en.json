@@ -2,29 +2,218 @@
   "links": {
     "buy": "https://www.indiegogo.com/projects/laer-a-laptop-sleeve-to-charge-all-your-devices-battery-powerbank?utm_source=arroe%20website"
   },
-"sections": {
+  "sections": {
     "features": "LAER is the first of its kind. A bluetooth enabled laptop sleeve that can charge all of your devices simultaneously wherever you are.",
     "design": {
-      "The Product": {
-        "text": "LAER doesn’t look like any other laptop sleeve, it’s designed to stand out. Our trademark circle on the front allows you to easily locate the wireless charging pad and the stitching is of the highest quality. We designed a composite material specially for LAER allowing the sleeve to be durable, and lightweight. The outer material is a nylon fabric chosen for its durability and aesthetic, the padding is a dense foam to protect your laptop from impact, and the inner fabric is a soft material to protect from scratches.",
-        "src": "img/Sleeve-min.jpg",
-        "btnText" : "Explore!",
-        "link": "https://www.indiegogo.com/projects/laer-a-laptop-sleeve-to-charge-all-your-devices-battery-powerbank?utm_source=arroe%20website"
-
-      },
-      "Pre Order": {
-        "text": "The insert contains all of the LAER hardware and is easily removable when needed. The casing is designed to fit the surface area of your laptop, saving space, and is impossibly thin at only 1cm. The materials we have used make the insert as light as possible, eliminating any unecessary weight.",
-        "src": "img/Insert-min.jpg",
-        "btnText" : "Pre Order!",
-        "link": "https://www.indiegogo.com/projects/laer-a-laptop-sleeve-to-charge-all-your-devices-battery-powerbank?utm_source=arroe%20website"
+      "LAER": {
+        "text": "LAER was created to simplify your life. It's an app controlled charging solution that replaces all chargers, adapters and portable batteries with one compact device made for travel and working on the go, specifically designed for luggage and bags. LAER is the only charging solution with a fully customisable output to safely power any device. Charge your laptop, smartphone and tablet simultaneously wherever you are.",
+        "src": "img/laer-min.JPG"
       }
     },
-    "about": "Based in London, ARROE was founded in March 2016 to find innovative solutions for everyday problems. The aim of our first product is to simplify the user’s life by allowing them to charge all their devices simultaneously from one wall socket. We are replacing all chargers, adapters, cables, portable batteries, wireless charging pads with one compact device that is made for travel and working on the go. LAER is the first of its kind, charging devices everywhere, for everyone.",
+    "product": {
+      "ARROE App": {
+        "text": "Our app is able to customise the voltage and current output of our battery to match the device it is charging which is done from our mobile app. All other power banks output set voltages (i.e. 12/15/19v) which do not match the voltage inputs on most laptops which means charging your laptop/surface device at these set voltages you are damaging the battery! Ours is the first portable battery that can safely charge any laptop.",
+        "src": "img/phone1.png"
+      },
+      "The Battery Cartridge" : {
+        "text":"The cartridge system we designed for the battery allows you to easily switch between lower and higher capacity batteries thereby choosing the amount of power and weight you carry with you that day.",
+        "src": "img/8.JPG"
+      },
+      "The Sleeve": {
+        "text": "We designed a closure system that allows you to keep LAER as compact as possible when not in use. Our two magnet system switches between charging and resting modes seamlessly providing extra room for the laptop connectors when needed. Our magnetic closure system also allows you quick, easy access to your laptop whenever you need it.",
+        "src": "img/19.JPG"
+      },
+      "Connectors": {
+        "text": "With our custom laptop connectors you can charge devices from all major brands including Apple, Surface, Sony, Toshiba, Dell, HP, Asus, Acer, Samsung, Lenovo",
+        "src": "img/11.JPG"
+      },
+      "The Charger": {
+        "text": "LAER comes with a 60w output USB-C Power Delivery charger with swappable wall plugs for all countries (type A, C, G, I) and supporting 2m USB-C cable",
+        "src": "img/14.JPG"
+      }
+    },
+    "aboutSplit": {
+      "About us": {
+        "text": "Based in London, ARROE was founded in 2016 by Eoin Cooney and Romain Pascal who previously worked together on the smart luggage brand SLAINT. After successfully bringing multiple products to market they realised that the technology required to make the perfect product didn't exist yet. So they decided to make their own and ARROE was born to develop technology that allows people to harness and store energy on an individual level to charge personal devices, wearables and smart clothing.",
+        "src": "img/16.JPG"
+      },
+      "Our Aim": {
+        "text": "Increased mobility, enabled by technology, is the future. All technology needs connectivity and power to work. Connectivity is constantly improving, but how are we going to power the technology of tomorrow? We are developing technology that allows people to harness and store energy on an individual level to charge personal devices, wearables and smart clothing.",
+        "src": "img/18.JPG"
+      }
+    },
+    "purchase":{
+      "Free yourself from the wall socket™": {
+        "text": "Work from anywhere and leave the socket hunting behind.",
+        "src": "img/suitcase.png"
+      },
+      "Interchangeable battery cartridge system": {
+        "text": "Bring as much power and as many cartridges with you as you need. Airlines only allow you to fly with a power bank under 100Wh but with our battery cartridge system you can fly with as much power as you like! Choose between either 20,000mAh or 10,000mAh cartridges.",
+        "src": "img/laerhand.JPG"
+      },
+      "Arrive in style": {
+        "text": "Specifically designed for luggage and approved for airline carry-on, LAER fits neatly into most backpacks allowing you to charge your devices wherever you are.",
+        "src": "img/insuit.png "
+      }
+    },
+    "purchase_fr":{
+      "Libérez vous de la prise murale": {
+        "text": "Travailler en toute liberté et oubliez la chasse aux prises.",
+        "src": "img/suitcase.png"
+      },
+      "Système de cartouches interchangeables": {
+        "text": "Embarquez avec autant d'énergie que nécessaire avec plusieurs cartouches. Les régulations des compagnies aériennes limitent les batteries à 100Wh mais grâce à notre système de cartouches interchangeables vous pouvez voyager avec autant de cartouches que vous le souhaitez. Choisissez vos cartouches de 20 000mAh ou 10 000mAh.",
+        "src": "img/laerhand.JPG"
+      },
+      "Voyagez avec élégance": {
+        "text": "Concu specifiquement pour les bagages et approuvé pour les sacs et valises cabine, LAER se glisse facilement dans un sac à dos pour recharger vos appareils où que vous soyez.",
+        "src": "img/insuit.png "
+      }
+    },
+    "purchase_gr":{
+      "Mach dich Frei von der Steckdose™": {
+        "text": "Arbeite von überall aus und lass die Steckdosensuche hinter dir.",
+        "src": "img/suitcase.png"
+      },
+      "Austauschbares Batteriekartensystem": {
+        "text": "Nimm so viel Strom und Batteriekarten mit wie du brauchst. Fluglinien erlauben es dir lediglich Power Banks mit unter 100Wh mitzunehmen, aber mit unserem Batteriekartensystem kannst du mit so viel Strom wie du willst fliegen! Wähle zwischen 20,000mAh oder 10,000mAh Batteriekarten.",
+        "src": "img/laerhand.JPG"
+      },
+      "Mit Stil ankommen": {
+        "text": "Speziell designed für Gepäck und zulässig im Flugzeug Handgepäck passt LAER geschickt in fast alle Rucksäcke, sodass du deine Geräte immer und überall unterwegs laden kannst.",
+        "src": "img/insuit.png "
+      }
+    },
+    "appSection":{
+      ".": {
+        "text": "Monitor LAER’s battery level from the ARROE app.",
+        "src": "img/phone1.png"
+      },
+      "..": {
+        "text": "Turn ports on and off",
+        "src": "img/phone2.png"
+      },
+      "...": {
+        "text": "Customise your charging and save a little power for later",
+        "src": "img/phone3.png"
+      },
+      "....": {
+        "text": "Set reminders to charge LAER and get alerts when the battery drops below a certain %",
+        "src": "img/phone4.png"
+      },
+      ".....": {
+        "text": "See the number of charge cycles from your battery cartridge ",
+        "src": "img/phone5.png"
+      }
+    },
+    "appSection_fr":{
+      ".": {
+        "text": "Vérifier le niveau de charge de LAER depuis votre appli. ARROE.",
+        "src": "img/phone1.png"
+      },
+      "..": {
+        "text": "Allumez et éteignez chaque port",
+        "src": "img/phone2.png"
+      },
+      "...": {
+        "text": "Customisez votre recharge et gardez un peu d'énergie pour plus tard.",
+        "src": "img/phone3.png"
+      },
+      "....": {
+        "text": "Planifiez des rappels pour recharger LAER et recevez des notifications lorsque le niveau tombe en dessous d’un certain pourcentage.",
+        "src": "img/phone4.png"
+      },
+      ".....": {
+        "text": "Vérifiez le nombre de cycles de charge de votre cartouche",
+        "src": "img/phone5.png"
+      }
+    },
+    "appSection_gr":{
+      ".": {
+        "text": "Kontrolliere LAER’s Batterielevel mit der ARROE App.",
+        "src": "img/phone1.png"
+      },
+      "..": {
+        "text": "Schalte Anschlüsse an oder aus.",
+        "src": "img/phone2.png"
+      },
+      "...": {
+        "text": "Passe die Ladefunktion individuell an und spare etwas Strom für später.",
+        "src": "img/phone3.png"
+      },
+      "....": {
+        "text": "Stelle Erinnerungen ein, um LAER aufzuladen und Benachrichtigungen zu erhalten, wenn der Akku unter einen bestimmten %-Wert fällt.",
+        "src": "img/phone4.png"
+      },
+      ".....": {
+        "text": "Lass dir die Anzahl von Ladezyklen deines Akkus anzeigen.",
+        "src": "img/phone5.png"
+      }
+    },
+    "insidebox":{
+      "." : {
+        "text": "Streamline your charging and lighten your load. LAER replaces all your other chargers, adaptors and power banks.",
+        "src": "img/streamline.png"
+      },
+      ".." : {
+        "text": "Most compact 60W USB-C PD 3.0 charger on the market. Includes USB-C PD 3.0 2m charging cable.",
+        "src": "img/compact.png"
+      },
+      "..." : {
+        "text": "Streamlined international travel adapters (US adapter built into charger)",
+        "src": "img/adaptors.png"
+      },
+      "...." : {
+        "text": "Laptop connectors for all major makes and models of laptop and a 2m extender cable for when you want to charge your laptop while working.",
+        "src": "img/connectors.png"
+      }
+    },
+    "insidebox_fr":{
+      "." : {
+        "text": "Simplifiez vos recharges et alléger vos bagages. LAER remplace tous vos chargeurs, adaptateurs, et batteries portables.",
+        "src": "img/streamline.png"
+      },
+      ".." : {
+        "text": "Le chargeur 60W USB-C PD 3.0 le plus compact du marché. Inclus un cable de charge USB-C PD 3.0 de 2 mètres",
+        "src": "img/compact.png"
+      },
+      "..." : {
+        "text": "Adaptateurs de voyages internationaux compacts et simplifiés (prise US intégrée au chargeur)",
+        "src": "img/adaptors.png"
+      },
+      "...." : {
+        "text": "Connectique pour toutes les marques leader d’ordinateurs portables. Câble d’extension de 2 mètres pour charger votre ordinateur en travaillant.",
+        "src": "img/connectors.png"
+      }
+    },
+    "insidebox_gr":{
+      "." : {
+        "text": "Optimiere das Aufladen und erleichtere deine Traglast. LAER ersetzt alle anderen Ladegeräte, Adapter und Power Banks.",
+        "src": "img/streamline.png"
+      },
+      ".." : {
+        "text": "Das kompakteste 60W USB-C PD 3.0 Ladegerät auf dem Markt. Beinhaltet USB-C PD 3.0 2m Ladekabel.",
+        "src": "img/compact.png"
+      },
+      "..." : {
+        "text": "Optimierte internationale Reiseadapter (US Adapter in Ladegerät eingebaut)",
+        "src": "img/adaptors.png"
+      },
+      "...." : {
+        "text": "Laptop-Adapter für die meisten Laptop Modelle und ein 2m Verlängerungskabel zum Aufladen deines Laptops während des Arbeitens.",
+        "src": "img/connectors.png"
+      }
+    },
+    "about": "",
     "support": "We’d like to find out more about your device so you can get the product that fits best"
+  },
+  "techImg" : {
+    "src" : "img/in_box.png"
   },
   "videos": {
     "hero": "7dUXnhUPf6U",
-    "features": "bgshlz-ydjA"
+    "features": "bgshlz-ydjA",
+    "unbox": "DDG03MpTdnU"
   },
   "features": {
     "Go": {
@@ -60,24 +249,237 @@
       "text": ["Track your LAER sleeve from your phone with TrackR"]
     }
   },
+  "tech": {
+    "Dimensions": {
+      "icon": "img/dim",
+      "text": ["W: 285mm - L: 200mm - H: 13mm"]
+    },
+    "37wh Battery Cartridge": {
+      "icon": "img/Charge-icon",
+      "text": [
+        "Contains Battery Cells, 2x 3.7v 5,000mAh cells in series",
+        "Weight 336g"
+      ]
+    },
+    "74wh Battery Cartridge": {
+      "icon": "img/Charge-icon",
+      "text": [
+        "Contains Battery Cells 2x 3.7v 10,000mAh cells in series ",
+        "Weight 494g"
+      ]
+    },
+    "Qi Wirless Charging": {
+      "icon": "img/Adapt-icon",
+      "text": [""]
+    },
+    "Ports": {
+      "icon": "img/port",
+      "text": [
+        "1x DC output (supporting 12-20V output 60w max)",
+        "2x USB-C Power Delivery in/out ports (supporting 5,9,12,15, 20V output 60w max)",
+        "1x USB-A QC 3.0 output (5-20v 18W max)",
+        "1x Qi Wireless 3.0 charging port (5V, 1A, 5W max)"
+      ]
+    },
+    "Bluetooth": {
+      "icon": "img/bluetooth",
+      "text": ["Bluetooth 5.0"]
+    }
+  },
   "people": {
-    "Eoin": {
+    "Eoin Cooney": {
       "title": "Managing Director",
       "picture": "img/eoin-min.jpg"
     },
-    "Romain": {
+    "Romain Pascal": {
       "title": "Head of Design",
       "picture": "img/romain-min.jpg"
     },
-    "Aksat": {
-      "title": "Head of Hardware",
-      "picture": "img/aksat-min.jpg"
+    "Randolph Manderstam": {
+      "title": "Head of Marketing",
+      "picture": "img/Randolph.jpeg"
+    },
+    "Dr Niall McGuinness": {
+      "title": "Head of Material Science",
+      "picture": "img/Niall.jpeg"
     }
   },
   "devices": {
-    "Apple": ["Macbook Pro 15", "Macbook Pro 13 retina"],
-    "Samsung": ["Samsungbook Copy 12.99 Iris"],
-    "Lenovo": ["Thinkpad T21", "Thinkpad T35"]
+    "Apple": [
+        {
+          "id" : 0,
+          "name" : "MacBook Pro",
+          "models" : ["3rd Generation 2012-2015", "4th Generation 2016-2018"]
+        },
+        {
+          "id" : 4,
+          "name" : "MacBook Air",
+          "models" : ["2nd Gen 2012-2017", "3rd Generation 2018"]
+        },
+        {
+          "id" : 5,
+          "name" : "MacBook",
+          "models" : ["2015-2017"]
+        }
+    ],
+    "Microsoft":[
+      {
+        "id": 3,
+        "name": "Surface Pro",
+        "models": ["Surface Pro 3", "Surface Pro 4", "Surface Pro 5", "Surface Pro 2017", "Surface Pro 6"]
+      },
+      {
+        "id": 6,
+        "name": "Surface Go",
+        "models": ["Surface Go"]
+      },
+      {
+        "id": 7,
+        "name": "Surface Laptop",
+        "models": ["Surface Laptop 1", "Surface Laptop 2"]
+      },
+      {
+        "id": 8,
+        "name": "Surface Book",
+        "models": ["Surface Book 1", "Surface Book 2"]
+      }
+    ],
+    "Dell": [
+      {
+        "id" : 2,
+        "name" : "XPS",
+        "models" : ["XPS 11", "XPS 13 Classic", "XPS 13 (9333)", "XPS 13", "XPS 13 (9343)", "XPS 13 (9350)", "XPS 15 (9550)"]
+      },
+      {
+        "id" : 9,
+        "name" : "Inspiron",
+        "models" : ["Inspiron 15R (N5010)", "Inspiron 14 7000 Series (7437)", "Inspiron 14 3000 Series (3451)", "Inspiron 15 3000 Series (3551)", "Inspiron 7348", "Inspiron (7568) (FHD Only)"]
+      },
+      {
+        "id" : 10,
+        "name" : "Vostro",
+        "models" : ["Vostro 3450", "Vostro 3550"]
+      },
+      {
+        "id" : 11,
+        "name" : "Chromebook",
+        "models" : ["Chromebook 11 3180", "Chromebook 11", "Chromebook 11 3189"]
+      },
+      {
+        "id" : 12,
+        "name" : "Venue",
+        "models" : ["Venue 11 Pro (5130)", "Venue 11 Pro (7130)", "Venue 11 Pro (7139)", "Venue 11 Pro (7140)"]
+      },
+      {
+        "id" : 13,
+        "name" : "Precision",
+        "models" : ["Precision 3510"]
+      },
+      {
+        "id" : 14,
+        "name" : "Latitude",
+        "models" : ["Latitude 3540", "Latitude 7350", "Latitude 12 (7202)"]
+      }
+    ],
+    "Lenovo": [
+      {
+        "id" : 15,
+        "name" : "Ideapad",
+        "models" : ["100 Series", "320 (15'' , Intel)", "330s 13/14/15''", "330 (15, Intel)", "500 Series", "700 Series", "L Series", "S Series", "Miix 520", "D330"]
+      },
+      {
+        "id" : 16,
+        "name" : "Thinkpad",
+        "models" : ["X1 EXTREME", "X1 Carbon", "X1 Yoga (3rd Gen)", "X390 Yoga", "X390", "X380 Yoga", "X280", "T590", "T490S", "T490", "T580", "T480s", "P1", "P72", "P52", "E595", "E495", "E590", "E490", "E585", "E480", "L390", "L390 Yoga", "L580", "L480", "L380", "L380 Yoga", "A485", "A285"]
+      },
+      {
+        "id" : 17,
+        "name" : "Yoga",
+        "models" : ["S series", "C", "730 (15) 2-in-1", "730 (13'')", "530", "310"]
+      },
+      {
+        "id" : 18,
+        "name" : "Flex",
+        "models" : ["Flex"]
+      },
+      {
+        "id" : 19,
+        "name" : "V",
+        "models" : ["V330 14/15''", "V130 14/15''"]
+      },
+      {
+        "id" : 20,
+        "name" : "Chromebook",
+        "models" : ["100e (2nd Gen)", "500e (2nd Gen)", "S330", "C330"]
+      }
+    ],
+    "HP": [
+      {
+        "id" : 21,
+        "name" : "Chromebook",
+        "models" : ["Chromebook - 14", "Chromebook - 15", "Chromebook x360 14", "Chromebook x2 12", "Chromebook 14 G5 14"]
+      },
+      {
+        "id" : 22,
+        "name" : "Notebook",
+        "models" : ["Notebook - 14"]
+      },
+      {
+        "id" : 23,
+        "name" : "Envy",
+        "models" : ["ENVY x360 - 13", "ENVY x360 - 15", "ENVY x2 - 12", "ENVY - 13", "ENVY - 15", "ENVY - 17"]
+      },
+      {
+        "id" : 24,
+        "name" : "Pavillion",
+        "models" : ["Pavilion x360 13", "Pavilion x360 14", "Pavilion x360 15", "Pavilion 13", "Pavilion - 14", "Pavilion 15"]
+      },
+      {
+        "id" : 25,
+        "name" : "Spectre",
+        "models" : ["Spectre - 13", "Spectre x360 - 13", "Spectre x360 - 15", "Spectre x2 - 12", "Spectre Folio - 13"]
+      },
+      {
+        "id" : 26,
+        "name" : "Stream",
+        "models" : ["Stream x360 - 11", "Stream 11", "Stream 14"]
+      },
+      {
+        "id" : 27,
+        "name" : "Essential",
+        "models" : ["HP 14", "HP 15"]
+      },
+      {
+        "id" : 28,
+        "name" : "Probook",
+        "models" : ["ProBook x360 11", "ProBook x360 14", "ProBook 13", "ProBook 14", "ProBook 15", "ProBook 17"]
+      }
+    ],
+    "Acer":[
+      {
+        "id": 29,
+        "name" :"Acer",
+        "models": ["Acer"]
+      }
+    ],
+    "Asus":[
+      {
+        "id": 30,
+        "name" :"Chromebook",
+        "models": ["Chromebook"]
+      },
+      {
+        "id": 30,
+        "name" :"Ultrabook",
+        "models": ["Ultrabook"]
+      },
+      {
+        "id": 30,
+        "name" :"Vivo",
+        "models": ["Vivo"]
+      }
+    ]
+    
   },
   "media": {
     "facebook": "https://www.facebook.com/arroebrand",

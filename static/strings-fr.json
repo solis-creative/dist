@@ -1,0 +1,209 @@
+{
+  "links": {
+    "buy": "https://www.indiegogo.com/projects/laer-a-laptop-sleeve-to-charge-all-your-devices-battery-powerbank?utm_source=arroe%20website"
+  },
+  "sections": {
+    "features": "LAER is the first of its kind. A bluetooth enabled laptop sleeve that can charge all of your devices simultaneously wherever you are.",
+    "design": {
+      "LAER": {
+        "text": "TINGINGISNDGINDSGINDSIGNINDSIGNISNGIN solution that replaces all chargers, adapters and portable batteries with one compact device made for travel and working on the go, specifically designed for luggage and bags. LAER is the only charging solution with a fully customisable output to safely power any device. Charge your laptop, smartphone and tablet simultaneously wherever you are.",
+        "src": "img/laer-min.JPG"
+      }
+    },
+    "product": {
+      "ARROE App": {
+        "text": "Our app is able to customise the voltage and current output of our battery to match the device it is charging which is done from our mobile app. All other power banks output set voltages (i.e. 12/15/19v) which do not match the voltage inputs on most laptops which means charging your laptop/surface device at these set voltages you are damaging the battery! Ours is the first portable battery that can safely charge any laptop.",
+        "src": "img/phone1.png"
+      },
+      "The Battery Cartridge" : {
+        "text":"The cartridge system we designed for the battery allows you to easily switch between lower and higher capacity batteries thereby choosing the amount of power and weight you carry with you that day.",
+        "src": "img/8.JPG"
+      },
+      "The Sleeve": {
+        "text": "We designed a closure system that allows you to keep LAER as compact as possible when not in use. Our two magnet system switches between charging and resting modes seamlessly providing extra room for the laptop connectors when needed. Our magnetic closure system also allows you quick, easy access to your laptop whenever you need it.",
+        "src": "img/19.JPG"
+      },
+      "Connectors": {
+        "text": "With our custom laptop connectors you can charge devices from all major brands including Apple, Surface, Sony, Toshiba, Dell, HP, Asus, Acer, Samsung, Lenovo",
+        "src": "img/11.JPG"
+      },
+      "The Charger": {
+        "text": "LAER comes with a 60w output USB-C Power Delivery charger with swappable wall plugs for all countries (type A, C, G, I) and supporting 2m USB-C cable",
+        "src": "img/14.JPG"
+      }
+    },
+    "aboutSplit": {
+      "About us": {
+        "text": "Based in London, ARROE was founded in 2016 by Eoin Cooney and Romain Pascal who previously worked together on the smart luggage brand SLAINT. After successfully bringing multiple products to market they realised that the technology required to make the perfect product didn't exist yet. So they decided to make their own and ARROE was born to develop technology that allows people to harness and store energy on an individual level to charge personal devices, wearables and smart clothing.",
+        "src": "img/16.JPG"
+      },
+      "Our Aim": {
+        "text": "Increased mobility, enabled by technology, is the future. All technology needs connectivity and power to work. Connectivity is constantly improving, but how are we going to power the technology of tomorrow? We are developing technology that allows people to harness and store energy on an individual level to charge personal devices, wearables and smart clothing.",
+        "src": "img/18.JPG"
+      }
+    },
+    "purchase":{
+      "Free yourself from the wall socket™": {
+        "text": "Work from anywhere and leave the socket hunting behind.",
+        "src": "img/suitcase.JPG"
+      },
+      "Interchangeable battery cartridge system": {
+        "text": "Bring as much power and as many cartridges with you as you need. Airlines only allow you to fly with a power bank under 100Wh but with our battery cartridge system you can fly with as much power as you like! Choose between either 20,000mAh or 10,000mAh cartridges.",
+        "src": "img/laerhand.JPG"
+      },
+      "Arrive in style": {
+        "text": "Specifically designed for luggage and approved for airline carry-on, LAER fits neatly into most backpacks allowing you to charge your devices wherever you are.",
+        "src": "img/insuit.png  "
+      }
+    },
+    "appSection":{
+      ".": {
+        "text": "Monitor LAER’s battery level from the ARROE app.",
+        "src": "img/phone1.png"
+      },
+      "..": {
+        "text": "Turn ports on and off",
+        "src": "img/phone2.png"
+      },
+      "...": {
+        "text": "Customise your charging and save a little power for later",
+        "src": "img/phone3.png"
+      },
+      "....": {
+        "text": "Set reminders to charge LAER and get alerts when the battery drops below a certain %",
+        "src": "img/phone4.png"
+      },
+      ".....": {
+        "text": "See the number of charge cycles from your battery cartridge ",
+        "src": "img/phone5.png"
+      }
+    },
+    "insidebox":{
+      "." : {
+        "text": "Streamline your charging and lighten your load. LAER replaces all your other chargers, adaptors and power banks.",
+        "src": "img/streamline.png"
+      },
+      ".." : {
+        "text": "Most compact 60W USB-C PD 3.0 charger on the market. Includes USB-C PD 3.0 2m charging cable.",
+        "src": "img/compact.png"
+      },
+      "..." : {
+        "text": "Streamlined international travel adapters (US adapter built into charger)",
+        "src": "img/adaptors.png"
+      },
+      "...." : {
+        "text": "Laptop connectors for all major makes and models of laptop and a 2m extender cable for when you want to charge your laptop while working.",
+        "src": "img/connectors.png"
+      }
+    },
+    "about": "",
+    "support": "We’d like to find out more about your device so you can get the product that fits best"
+  },
+  "techImg" : {
+    "src" : "img/in_box.png"
+  },
+  "videos": {
+    "hero": "7dUXnhUPf6U",
+    "features": "bgshlz-ydjA"
+  },
+  "features": {
+    "Go": {
+      "icon": "img/Go-icon",
+      "text": ["Charge on the go with our proprietary closure system"]
+    },
+    "Charge": {
+      "icon": "img/Charge-icon",
+      "text": [
+        "Charge your laptop (PC or MAC)",
+        "Charge your phone in minutes with Quick Charge",
+        "Charge your phone and wearables wirelessly or via USB/USB-C",
+        "Charge your MagSafe Macbook with our proprietary connectors"
+      ]
+    },
+    "Switch": {
+      "icon": "img/Switch-icon",
+      "text": [
+        "Easily switch battery capacities to suit your day using our proprietary cartridge system",
+        "Easily switch between wireless and magnetic cabled charging with our proprietary iPhone case "
+      ]
+    },
+    "Adapt": {
+      "icon": "img/Adapt-icon",
+      "text": ["Charge anywhere in the world, adapters for all countries"]
+    },
+    "Manage": {
+      "icon": "img/Manage-icon",
+      "text": ["Manage functionality and battery levels using our app"]
+    },
+    "Track": {
+      "icon": "img/Trackr-icon",
+      "text": ["Track your LAER sleeve from your phone with TrackR"]
+    }
+  },
+  "tech": {
+    "Dimensions": {
+      "icon": "img/dim",
+      "text": ["W: 285mm - L: 200mm - H: 13mm"]
+    },
+    "37wh Battery Cartridge": {
+      "icon": "img/Charge-icon",
+      "text": [
+        "Contains Battery Cells, 2x 3.7v 5,000mAh cells in series",
+        "Weight 336g"
+      ]
+    },
+    "74wh Battery Cartridge": {
+      "icon": "img/Charge-icon",
+      "text": [
+        "Contains Battery Cells 2x 3.7v 10,000mAh cells in series ",
+        "Weight 494g"
+      ]
+    },
+    "Qi Wirless Charging": {
+      "icon": "img/Adapt-icon",
+      "text": [""]
+    },
+    "Ports": {
+      "icon": "img/port",
+      "text": [
+        "1x DC output (supporting 12-20V output 60w max)",
+        "2x USB-C Power Delivery in/out ports (supporting 5,9,12,15, 20V output 60w max)",
+        "1x USB-A QC 3.0 output (5-20v 18W max)",
+        "1x Qi Wireless 3.0 charging port (5V, 1A, 5W max)"
+      ]
+    },
+    "Bluetooth": {
+      "icon": "img/bluetooth",
+      "text": ["Bluetooth 5.0"]
+    }
+  },
+  "people": {
+    "Eoin Cooney": {
+      "title": "Managing Director",
+      "picture": "img/eoin-min.jpg"
+    },
+    "Romain Pascal": {
+      "title": "Head of Design",
+      "picture": "img/romain-min.jpg"
+    },
+    "Randolph Manderstam": {
+      "title": "Head of Marketing",
+      "picture": "img/Randolph.jpeg"
+    },
+    "Dr Niall McGuinness": {
+      "title": "Head of Material Science",
+      "picture": "img/Niall.jpeg"
+    }
+  },
+  "devices": {
+    "Apple": ["Macbook Pro 2012-2015", "Macbook Pro 2016-2018", "Macbook Air 2012-2017", "Macbook Air 2018", "Macbook 2015-2017"],
+    "Samsung": ["Samsungbook Copy 12.99 Iris"],
+    "Lenovo": ["Thinkpad T21", "Thinkpad T35"]
+  },
+  "media": {
+    "facebook": "https://www.facebook.com/arroebrand",
+    "linkedin": "https://www.linkedin.com/company/arroe",
+    "instagram": "http://instagram.com/arroebrand",
+    "twitter": "https://twitter.com/arroebrand"
+  }
+}
